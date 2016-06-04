@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-Edit of README.md
+This repository is a simple Hello World
