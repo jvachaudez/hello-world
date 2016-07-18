@@ -1,2 +1,2 @@
 # hello-world
-This repository is a simple Hello World
+This repository illustrates a simple Hello World in Python
